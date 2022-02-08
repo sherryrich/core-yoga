@@ -7,6 +7,57 @@
 }
 
 body {
-    font-family: Lato;
+    font-family: Roboto, Montserrat, Sans-Serif;
     font-weight: 300;
+    color: #453d40;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #363438;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+   
+    
+}
+
+#menu a:hover {
+    padding-bottom: 5px;
+    border-bottom: 3px solid #ff6700;
+
+}
+
+
+.active {
+    padding-bottom: 5px;
+    border-bottom: 3px solid #ff6700;
 }
