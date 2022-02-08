@@ -10,11 +10,15 @@ body {
     font-family: Roboto, Montserrat, Sans-Serif;
     font-weight: 300;
     color: #453d40;
+    background-color: #ffd7b5;
 }
 
 /* headings and logo */
 
-h1, h2 {
+
+
+h1,
+h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -31,10 +35,13 @@ h1, h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
+    
 }
 
 #menu li {
@@ -46,8 +53,8 @@ h1, h2 {
 #menu a {
     text-decoration: none;
     color: inherit;
-   
-    
+
+
 }
 
 #menu a:hover {
@@ -60,4 +67,66 @@ h1, h2 {
 .active {
     padding-bottom: 5px;
     border-bottom: 3px solid #ff6700;
+}
+
+/* main image */
+
+#main-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    
+    position: relative;
+}
+
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 400px;
+    height: 400px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(255, 103, 0, .5);
+
+    bottom: 100px;
+    right: 30px;
+
+    position: absolute;
+}
+
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-eternal-happiness-3326362.jpg") no-repeat center center/cover;
+
+    /* animates zoom efffect on loading page */
+
+    animation-name: main-zoom;
+    animation-duration: 6s;
+    animation-fill-mode: forwards;
+
+}
+
+
+/* creates the level of xoom for main image */
+
+@keyframes main-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
 }
