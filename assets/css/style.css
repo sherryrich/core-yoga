@@ -57,7 +57,8 @@ h1, h2 {
 
 #menu a:hover {
     padding-bottom: 5px;
-    border-bottom: 3px solid #ff6700;
+    border-bottom: 2px solid #ff6700;
+    color: #fff;
 
 }
 
@@ -75,12 +76,21 @@ h1, h2 {
 
 }
 
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
+
 /* main image */
+
 
 #hero-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 
 }
 
@@ -91,8 +101,79 @@ h1, h2 {
     background-size: cover;
     background-position: 0px 600px;
     background-repeat: repeat-y;
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+ 
     
 }
 
+
+
 /* creates the level of zoom for hero image */
 
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.2);
+    }
+
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Roboto, Montserrat, Sans-Serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(255, 146, 72, .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+
+
+}
+
+
+
+
+/* footer social media links */
+
+/* Footer */
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 3%;
+    color: #3a3a3a;
+}
+
+
+.social-networks i:hover{
+    color: #ff6700;
+}
