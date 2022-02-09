@@ -3,7 +3,7 @@
 * {
     margin-bottom: 0px;
     padding: 0;
-    border: none;
+    border: 0px;
 }
 
 body {
@@ -17,18 +17,20 @@ body {
 /* headings and logo */
 
 
-
 h1,
 h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #363438;
+    color: #453d40;
 }
 
 #logo {
     float: left;
     font-size: 300%;
+    margin-left: 20px;
+    color: #453d40;
+    text-shadow: 3px 3px 5px #363438; ;
 }
 
 /* navigation links */
@@ -39,10 +41,14 @@ h2 {
     
 }
 
-#menu,
-#logo {
+#menu, #logo {
     line-height: 75px;
+   
     
+}
+
+#nav-bar {
+    background: #fff;
 }
 
 #menu li {
@@ -73,6 +79,14 @@ h2 {
 
 
 
+#landing-section {
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background: url(/assets/images/pexels-eternal-happiness-3326362.jpg);
+    
+}
 
 
 
@@ -97,5 +111,11 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #453d40;
-    ;
+}
+
+.social-networks i:hover{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #ff6700;;
 }
