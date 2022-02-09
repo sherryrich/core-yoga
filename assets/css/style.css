@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@300&display=swap');
 
 * {
-    margin: 0;
+    margin-bottom: 0px;
     padding: 0;
     border: none;
 }
@@ -11,6 +11,7 @@ body {
     font-weight: 300;
     color: #453d40;
     background-color: #ffd7b5;
+    
 }
 
 /* headings and logo */
@@ -69,64 +70,32 @@ h2 {
     border-bottom: 3px solid #ff6700;
 }
 
-/* main image */
-
-#main-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    
-    position: relative;
-}
 
 
-#cover-text, #cover-text h2 {
-    color: #fff;
-}
-
-#cover-text {
-    font-size: 130%;
-    font-family: Roboto, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-
-    width: 400px;
-    height: 400px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgba(255, 103, 0, .5);
-
-    bottom: 100px;
-    right: 30px;
-
-    position: absolute;
-}
 
 
-#main-image {
-    height: 600px;
-    width: 100%;
-    background: url("../images/pexels-eternal-happiness-3326362.jpg") no-repeat center center/cover;
 
-    /* animates zoom efffect on loading page */
 
-    animation-name: main-zoom;
-    animation-duration: 6s;
-    animation-fill-mode: forwards;
+
+/* footer */
+
+footer {
+    height: 150px;
 
 }
 
+.social-networks {
+    text-align: center;
+}
 
-/* creates the level of xoom for main image */
+.social-networks li {
+    display: inline;
+}
 
-@keyframes main-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #453d40;
+    ;
 }
