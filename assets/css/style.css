@@ -74,3 +74,25 @@ h1, h2 {
     color: inherit;
 
 }
+
+/* main image */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(/assets/images/pexels-eternal-happiness-3326362.jpg) no-repeat center center;
+    background-size: cover;
+    background-position: 0px 600px;
+    background-repeat: repeat-y;
+    
+}
+
+/* creates the level of zoom for hero image */
+
