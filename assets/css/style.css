@@ -14,4 +14,63 @@ body {
     background-color: #ffd7b5;
 }
 
+/* headings and logo */
 
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #453d40;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 20px;
+    color: #453d40;
+    text-shadow: 3px 3px 5px #363438; ;
+}
+
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    
+}
+
+#menu, #logo {
+    line-height: 75px;
+    
+}
+
+
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+
+#menu a:hover {
+    padding-bottom: 5px;
+    border-bottom: 3px solid #ff6700;
+
+}
+
+
+.active {
+    padding-bottom: 5px;
+    border-bottom: 3px solid #ff6700;
+}
+
+
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+
+}
