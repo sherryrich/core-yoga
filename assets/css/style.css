@@ -28,7 +28,6 @@
 
  #benefits-header > h2 {
     color: #fff;
-    text-align: center;
     font-weight: bold;
     font-size: 30px;
  }
@@ -175,7 +174,7 @@
     width: 100%;
     margin: auto 0;
     text-align: center;
-    padding: 50px;
+    padding: 40px;
  }
  
  #benefits-container > div {
@@ -245,3 +244,34 @@ hr {
     width: 100%;
     display: inline-block;
 }
+
+
+/* class timetable */
+
+
+
+table {
+    border: 5px solid #ff6700;
+    margin: 0 auto;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+
+
+
+table th {
+    font-size: 25px;
+    text-align: left;
+    padding: 30px;
+    margin: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #ff6700;
+    
+}
+table td {
+    font-size: 20px;
+    text-align: left;
+    padding: 25px;
+    margin: 20px;
+}
+
