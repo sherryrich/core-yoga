@@ -97,7 +97,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('/assets/images/pexels-eternal-happiness-3326362.jpg') ;
+    background: url('/assets/images/pexels-eternal-happiness-3326362.jpg')no-repeat center center;
     background-size: cover;
     background-position: 0px 600px;
     background-repeat: repeat-y;
