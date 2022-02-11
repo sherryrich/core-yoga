@@ -21,7 +21,7 @@
  h2 {
      font-family: Roboto, sans-serif;
      text-transform: uppercase;
-     letter-spacing: 4px;
+     letter-spacing: 3px;
      color: #453d40;
      text-align: center;
  }
@@ -36,6 +36,20 @@
     color: #453d40;
     padding: 30px;
  }
+
+ #benefits-container > div > p > a  {
+        color: #453d40;
+        text-decoration: none;
+        border-bottom: 1px solid #ff6700;
+        font-weight: 400;
+ }
+
+ #benefits-container > div > p > a:hover {
+    
+    color: #fff;
+
+}
+
 
  hr {
      display: none;
@@ -92,7 +106,6 @@
  #menu a {
      text-decoration: none;
      color: inherit;
-
  }
 
 
@@ -166,15 +179,12 @@
 
  /* benefits */
 
-
-
  #benefits-header {
     background-color: #ff6700;
     color: #fff;
-    width: 100%;
     margin: auto 0;
     text-align: center;
-    padding: 40px;
+    padding: 30px 0;
  }
  
  #benefits-container > div {
@@ -182,6 +192,7 @@
     display: inline-block;
     padding: 30px 0 30px 0;
     width: 33%;
+    
 }
 
 
@@ -190,6 +201,10 @@
     text-decoration: solid;
     padding-top: 20px;
 }
+
+
+
+
 
 #left-benefits {
     padding: 30px;
