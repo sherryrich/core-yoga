@@ -448,5 +448,11 @@ table td {
         #hero-outer {
             height: 0px;
         }
+        .signup-form {
+            margin: 0;
+            padding: 0;
+        }
+
+     
 
 }
