@@ -42,7 +42,7 @@
     color: #453d40;
     padding: 30px;
     font-size: 18px;
-       
+  
  }
 
  #benefits-container > div > p > a  {
@@ -376,58 +376,77 @@ table td {
 
 /* breakpoints media queries */
 
+
+
+
 @media screen and (max-width: 1200px) {
 
-    #benefits-container {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-
-    #middle-benefits {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-
-    #right-benefits {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
+  #benefits-container {
+      width: 85%;
+      height: 500px;
+  }
+    
 }
 
 /* media query from 950px and down */
 
 @media screen and (max-width: 950px) {
 
+    #benefits-container {
+        width: 95%;
+        height: 800px;
+        margin: 0 auto;
+    }
+
+    #right-benefits {
+        width: 100%;
+        float: left;
+        clear: both;
+    }
+
     #menu {
-        clear: left;
+        clear:left;
         float: left;
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
-
     }
 
-    #cover-text {
-        display: none;
-    }
+
+}
+
+/* media query from 700px and down */
+
+@media screen and (max-width: 700px) {
 
     #benefits-container {
-        width: 100%;
-        height: 1200px;
         margin: 0 auto;
     }
 
- #left-benefits, #middle-benefits, #right-benefits h3 {
-    width: 100%;
-    text-align: center;
-    padding: 0 20px;
- }
+    #middle-benefits {
+        width: 100%;
+        float: left;
+        clear: both;
+    }
+
+    #benefits-container > div > p  {
+        color: #453d40;
+        padding: 30px;
+        font-size: 18px;
+      width: 100%;
+     }
+
+
+     /* media query from 500px and down */
+     
+     @media screen and (max-width: 500px) {
+
+        #cover-text, #hero-image {
+            display: none;
+        }
+
+        #hero-outer {
+            height: 0px;
+        }
 
 }
