@@ -48,8 +48,8 @@
  #benefits-container > div > p > a  {
         color: #453d40;
         text-decoration: none;
-        border-bottom: 1px solid #ff6700;
-        font-weight: 400;
+        border-bottom: 2px solid #ff6700;
+        font-weight: 500;
        
  }
 
@@ -288,8 +288,8 @@ table {
     margin: 0 auto;
     border-radius: 5%;
     margin-top: 40px;
+    background-color: #fff;
 }
-
 
 
 table th {
@@ -298,13 +298,12 @@ table th {
     padding: 30px;
     margin: 20px;
     text-transform: uppercase;
-    border-bottom: 2px solid #ff6700;
-    
+    border-bottom: 2px solid #ff6700;    
 }
 table td {
     font-size: 20px;
     text-align: left;
-    padding: 20px;
+    padding: 15px;
     margin: 20px;
 }
 
@@ -373,7 +372,6 @@ table td {
 
 
 
-
 /* breakpoints media queries */
 
 
@@ -419,9 +417,8 @@ table td {
 
 @media screen and (max-width: 700px) {
 
-    #benefits-container {
-        margin: 0 auto;
-    }
+  
+   
 
     #middle-benefits {
         width: 100%;
@@ -433,8 +430,10 @@ table td {
         color: #453d40;
         padding: 30px;
         font-size: 18px;
-      width: 100%;
+        width: 100%;
+
      }
+
 
 
      /* media query from 500px and down */
@@ -449,10 +448,12 @@ table td {
             height: 0px;
         }
         .signup-form {
-            margin: 0;
-            padding: 0;
+            margin: 5px;
+            padding: 5px;
+            border: 1px solid #ff6700;
         }
 
-     
+
+
 
 }
