@@ -35,7 +35,7 @@
  #benefits-header > h2 {
     color: #fff;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
  }
 
  #benefits-container > div > p  {
@@ -276,6 +276,15 @@ hr {
 /* class timetable */
 
 
+.class-section-header {
+    clear: left;
+    background: url("../images/pexels-elina-fairytale-3823186.jpg") no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    height: 1500px;
+}
+
+
 #class-timetable-header > h2 {
     background-color: #ff6700;
     color: #fff;
@@ -290,7 +299,7 @@ table {
     margin: 0 auto;
     border-radius: 5%;
     margin-top: 40px;
-    background-color: #fff;
+    background-color: rgba(255, 146, 72, .4);
 }
 
 
