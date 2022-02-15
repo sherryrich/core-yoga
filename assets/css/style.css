@@ -59,7 +59,9 @@
 
 }
 
-
+.fa-dumbbell {
+    margin-left: 10px;
+}
 
  hr {
      display: none;
@@ -434,7 +436,13 @@ table td {
 
      }
 
-
+     #menu {
+        clear:left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 
      /* media query from 500px and down */
      
@@ -453,7 +461,14 @@ table td {
             border: 1px solid #ff6700;
         }
 
-
+        #menu {
+            clear:left;
+            float: left;
+            margin-left: 5px;
+            padding: 5px;
+            margin-bottom: 10px;
+            line-height: 15px;
+        }
 
 
 }
