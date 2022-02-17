@@ -26,42 +26,38 @@
      text-align: center;
  }
 
-#cover-text span {
-    color: #ff6700;
-    font-size: 30px;
-    
-}
+ #cover-text span {
+     color: #ff6700;
+     font-size: 30px;
 
- #benefits-header > h2 {
-    color: #fff;
-    font-weight: bold;
-    font-size: 25px;
  }
 
- #benefits-container > div > p  {
-    color: #453d40;
-    padding: 30px;
-    font-size: 18px;
-  
+ #benefits-header>h2 {
+     color: #fff;
+     font-weight: bold;
+     font-size: 25px;
  }
 
- #benefits-container > div > p > a  {
-        color: #453d40;
-        text-decoration: none;
-        border-bottom: 2px solid #ff6700;
-        font-weight: 500;
-       
+ #benefits-container>div>p {
+     color: #453d40;
+     padding: 30px;
+     font-size: 18px;
+
  }
 
- #benefits-container > div > p > a:hover {
-    
-    color: #fff;
+ #section-benefits>p>a {
+     color: #453d40;
+     text-decoration: none;
+     border-bottom: 2px solid #ff6700;
+     font-weight: 500;
 
-}
+ }
 
-.fa-dumbbell {
-    margin-left: 10px;
-}
+ #section-benefits>p>a:hover {
+     color: #fff;
+ }
+
+
 
  hr {
      display: none;
@@ -192,292 +188,238 @@
  /* benefits */
 
  #benefits-header {
-    background-color: #ff6700;
-    color: #fff;
-    margin: auto 0;
-    text-align: center;
-    padding: 30px 0;
+     background-color: #ff6700;
+     color: #fff;
+     margin: auto 0;
+     text-align: center;
+     padding: 30px 0;
  }
- 
- #benefits-container > div {
-    width: 100%;
-    display: inline-block;
-    padding: 30px 0 30px 0;
-    width: 33%;
-    
-}
 
+ #benefits-container>div {
+     width: 100%;
+     display: inline-block;
+     padding: 30px 0 30px 0;
+     width: 33%;
 
-#benefits-container > div > h3 {
-    text-align: center;
-    text-decoration: solid;
-    padding-top: 20px;
-}
-
-
-
-
-
-#left-benefits {
-    padding: 30px;
-    width: 33%;
-    float: left;
-}
-
-#middle-benefits {
-    padding: 30px;
-    width: 33%;
-    margin: auto;
-    
-}
-
-#right-benefits {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-}
-
-hr {
-    border-top: 1px solid #3a3a3a;
-    width: 100%;
-    margin: 5px 0;
-}
-
- 
- footer{
-    height: 150px;
-}
-
-.social-networks{
-    text-align: center;
-}
-
-.social-networks li{
-    display: inline;
-}
-
-.social-networks i{
-    font-size: 160%;
-    margin: 1%;
-    padding: 2%;
-    color: #3a3a3a;
-}
-
-.social-networks i:hover {
-    color: #ff6700;
-}
-
-#footer-container {
-    width: 100%;
-    display: inline-block;
-}
-
-
-/* class timetable */
-
-
-.class-section-header {
-    clear: left;
-    background: url("../images/pexels-elina-fairytale-3823186.jpg") no-repeat center center;
-    background-size: cover;
-    background-position: center;
-    height: 1500px;
-}
-
-
-#class-timetable-header > h2 {
-    background-color: #ff6700;
-    color: #fff;
-    margin: auto 0;
-    text-align: center;
-    padding: 30px 0;
  }
 
 
-table {
-    border: 3px solid #ff6700;
-    margin: 0 auto;
-    border-radius: 5%;
-    margin-top: 40px;
-    background-color: rgba(255, 146, 72, .4);
-}
-
-
-table th {
-    font-size: 15px;
-    text-align: left;
-    padding: 30px;
-    margin: 20px;
-    text-transform: uppercase;
-    border-bottom: 2px solid #ff6700;    
-}
-table td {
-    font-size: 20px;
-    text-align: left;
-    padding: 15px;
-    margin: 20px;
-}
-
-/* sign-up contact page  */
-
-.form-section {
-    clear: left;
-    background: url("../images/pexels-elina-fairytale-3823086.jpg") no-repeat center center;
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}
-
-.signup-form {
-    margin: 50px 10% 0 0;
-    color: #fff;
-    background-color: rgba(255, 146, 72, .4);
-    max-width: 600px;
-    position: absolute;
-    left: 10%;
-    padding: 100px 100px;
-    border: 1px solid #ff6700;
-    border-radius: 5%;
-}
-
-.signup-form > h2 {
-    color: #fff;
-    text-decoration: solid;
-    margin-bottom: 20px;
-    font-size: 30px;
-}
-
-
-.text-input {
-    background: transparent;
-    width: 100%;
-    color: #fafafa;
-    height: 25px;
-    margin: 5px 0 10px 0px;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-
-}
-
-.text-input:hover {
-    border-color: #ff6700;
-}
-
-.join-button {
-    margin-top: 20px;
-    border-radius: 5%;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
-    background-color:#ff6700;
-    color: #ffff    ;
-    display: block;
-    
-}
-
-.join-button:hover {
-    background-color: #fafafa;
-    color: #ff6700;
-    
-}
-
-
-
-/* breakpoints media queries */
+ #benefits-container>div>h3 {
+     text-align: center;
+     text-decoration: solid;
+     padding-top: 20px;
+ }
 
 
 
 
-@media screen and (max-width: 1200px) {
 
-  #benefits-container {
-      width: 85%;
-      height: 500px;
-  }
-    
-}
+ #left-benefits {
+     padding: 30px;
+     width: 33%;
+     float: left;
+ }
 
-/* media query from 950px and down */
+ #middle-benefits {
+     padding: 30px;
+     width: 33%;
+     margin: auto;
 
-@media screen and (max-width: 950px) {
+ }
 
-    #benefits-container {
-        width: 95%;
-        height: 800px;
-        margin: 0 auto;
-    }
+ #right-benefits {
+     padding-top: 30px;
+     width: 33%;
+     float: right;
+ }
 
-    #right-benefits {
-        width: 100%;
-        float: left;
-        clear: both;
-    }
-
-    #menu {
-        clear:left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
+ hr {
+     border-top: 1px solid #3a3a3a;
+     width: 100%;
+     margin: 5px 0;
+ }
 
 
-}
+ footer {
+     height: 150px;
+ }
 
-/* media query from 700px and down */
+ .social-networks {
+     text-align: center;
+ }
 
-@media screen and (max-width: 700px) {
+ .social-networks li {
+     display: inline;
+ }
 
-  
-   
+ .social-networks i {
+     font-size: 160%;
+     margin: 1%;
+     padding: 2%;
+     color: #3a3a3a;
+ }
 
-    #middle-benefits {
-        width: 100%;
-        float: left;
-        clear: both;
-    }
+ .social-networks i:hover {
+     color: #ff6700;
+ }
 
-    #benefits-container > div > p  {
-        color: #453d40;
-        padding: 30px;
-        font-size: 18px;
-        width: 100%;
+ #footer-container {
+     width: 100%;
+     display: inline-block;
+ }
 
+
+ /* class timetable */
+
+
+ .class-section-header {
+     clear: left;
+     background: url("../images/pexels-elina-fairytale-3823186.jpg") no-repeat center center;
+     background-size: cover;
+     background-position: center;
+     height: 1500px;
+ }
+
+
+ #class-timetable-header>h2 {
+     background-color: #ff6700;
+     color: #fff;
+     margin: auto 0;
+     text-align: center;
+     padding: 30px 0;
+ }
+
+
+ table {
+     border: 3px solid #ff6700;
+     margin: 0 auto;
+     border-radius: 5%;
+     margin-top: 40px;
+     background-color: rgba(255, 146, 72, .4);
+ }
+
+
+ table th {
+     font-size: 15px;
+     text-align: left;
+     padding: 30px;
+     margin: 20px;
+     text-transform: uppercase;
+     border-bottom: 2px solid #ff6700;
+ }
+
+ table td {
+     font-size: 20px;
+     text-align: left;
+     padding: 15px;
+     margin: 20px;
+ }
+
+ /* sign-up contact page  */
+
+ .form-section {
+     clear: left;
+     background: url("../images/pexels-elina-fairytale-3823086.jpg") no-repeat center center;
+     background-size: cover;
+     background-position: center;
+     height: 900px;
+ }
+
+ .signup-form {
+     margin: 50px 10% 0 0;
+     color: #fff;
+     background-color: rgba(255, 146, 72, .4);
+     max-width: 600px;
+     position: absolute;
+     left: 10%;
+     padding: 100px 100px;
+     border: 1px solid #ff6700;
+     border-radius: 5%;
+ }
+
+ .signup-form>h2 {
+     color: #fff;
+     text-decoration: solid;
+     margin-bottom: 20px;
+     font-size: 30px;
+ }
+
+
+ .text-input {
+     background: transparent;
+     width: 100%;
+     color: #fafafa;
+     height: 25px;
+     margin: 5px 0 10px 0px;
+     border: 1px solid #fafafa;
+     border-radius: 2px;
+
+ }
+
+ .text-input:hover {
+     border-color: #ff6700;
+ }
+
+ .join-button {
+     margin-top: 20px;
+     border-radius: 5%;
+     padding: 15px 32px 15px 32px;
+     text-align: center;
+     font-size: 100%;
+     background-color: #ff6700;
+     color: #ffff;
+     display: block;
+
+ }
+
+ .join-button:hover {
+     background-color: #fafafa;
+     color: #ff6700;
+
+ }
+
+
+
+ #section-outer {
+     display: flex;
+     justify-content: left;
+
+ }
+
+ #section-benefits {
+     height: 200px;
+     padding: 10px;
+     margin: 10px;
+     background-color: rgba(255, 146, 72, .4);
+     text-align: center;
+ }
+
+ #section-benefits H3 {
+
+     padding: 20px;
+
+ }
+
+/* media query */
+
+ @media (max-width: 1400px) {
+
+     #section-outer {
+         flex-direction: column;
+         text-align: center;
      }
 
      #menu {
-        clear:left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
+         clear: left;
+         float: left;
+         margin-left: 5px;
+         padding: 5px;
+         margin-bottom: 10px;
+         line-height: 15px;
+     }
 
-     /* media query from 500px and down */
-     
-     @media screen and (max-width: 500px) {
+     #cover-text {
+         display: none;
+     }
 
-        #cover-text, #hero-image {
-            display: none;
-        }
-
-        #hero-outer {
-            height: 0px;
-        }
-        .signup-form {
-            margin: 5px;
-            padding: 5px;
-            border: 1px solid #ff6700;
-        }
-
-        #menu {
-            clear:left;
-            float: left;
-            margin-left: 5px;
-            padding: 5px;
-            margin-bottom: 10px;
-            line-height: 15px;
-        }
-
-
-}
+ }
