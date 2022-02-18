@@ -431,6 +431,8 @@
          display: none;
      }
 
+
+
      @media (max-width: 800px) {
          .signup-form {
              left: 8%;
@@ -459,11 +461,12 @@
 
          }
 
+        
      }
 
 
-
  }
+
 
  /* 320px — 480px: Mobile devices
 481px — 768px: iPads, Tablets
