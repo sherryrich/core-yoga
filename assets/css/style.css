@@ -360,7 +360,7 @@
  }
 
  .join-button {
-     margin-top: 20px;
+     margin-top: 25px;
      border-radius: 5%;
      padding: 15px 32px 15px 32px;
      text-align: center;
@@ -376,6 +376,8 @@
      color: #ff6700;
 
  }
+
+
 
 
 
@@ -448,14 +450,14 @@
          #hero-image {
              display: none;
          }
-         
+
          #hero-outer {
-            height: 300px;
-            width: 100%;
-            background: url('../images/yoga_small.JPG')no-repeat center center;
-            background-size: cover;
-          
-        }
+             height: 300px;
+             width: 100%;
+             background: url('../images/yoga_small.JPG')no-repeat center center;
+             background-size: cover;
+
+         }
 
      }
 
