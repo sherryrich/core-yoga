@@ -292,7 +292,7 @@
  table {
      border: 3px solid #ff6700;
      margin: 0 auto;
-     border-radius: 5%;
+     border-radius: px;
      margin-top: 40px;
      background-color: rgba(255, 146, 72, .4);
  }
@@ -309,10 +309,11 @@
 
  table td {
      font-size: 20px;
-     text-align: left;
-     padding: 15px;
-     margin: 20px;
+     text-align: center;
+
  }
+
+
 
  /* sign-up contact page  */
 
@@ -418,17 +419,72 @@
          border: 20px;
      }
 
-     #menu {
-         clear: left;
-         float: left;
-         margin-left: 5px;
-         padding: 5px;
-         margin-bottom: 10px;
-         line-height: 15px;
-     }
+
 
      #cover-text {
          display: none;
+     }
+
+     @media (max-width: 900px) {
+
+         #menu {
+             clear: left;
+             float: left;
+             margin-left: 5px;
+             padding: 5px;
+             margin-bottom: 10px;
+             line-height: 15px;
+         }
+
+         table,
+         head,
+         tbody,
+         th,
+         td,
+         tr {
+             display: block;
+         }
+
+         thead tr {
+             display: none;
+         }
+
+         tr {
+             border: 5px solid #ff6700;
+         }
+
+         td {
+             border: none;
+             border-bottom: 2px solid #ff6700;
+             position: relative;
+             white-space: normal;
+             text-align: left;
+             min-height: 30px;
+             overflow: hidden;
+             word-break: break-all;
+         }
+
+         td:before {
+             position: absolute;
+             top: 6px;
+             left: 6px;
+             width: 45%;
+             padding-right: 10px;
+             text-align: left;
+             font-weight: bold;
+         }
+
+         td:before {
+             content: attr(data-title);
+         }
+
+         .weekday {
+            background-color: #fff;
+        }
+        .rest-day {
+            background-color: #ff6700;
+        }
+
      }
 
 
@@ -439,6 +495,7 @@
              padding: 50px 50px;
          }
      }
+
 
 
 
@@ -461,7 +518,7 @@
 
          }
 
-        
+
      }
 
 
