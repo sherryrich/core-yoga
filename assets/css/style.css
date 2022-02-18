@@ -130,7 +130,6 @@
      height: 600px;
      width: 100%;
      overflow: hidden;
-
      position: relative;
 
  }
@@ -390,7 +389,7 @@
      height: 200px;
      padding: 10px;
      margin: 10px;
-     text-align: center;
+     text-align: auto;
      width: 33%;
  }
 
@@ -441,15 +440,22 @@
 
      @media (max-width: 500px) {
          #section-benefits {
-             height: 250px;
+             height: 350px;
+             width: 70%;
 
          }
 
          #hero-image {
              display: none;
          }
-
          
+         #hero-outer {
+            height: 300px;
+            width: 100%;
+            background: url('../images/yoga_small.JPG')no-repeat center center;
+            background-size: cover;
+          
+        }
 
      }
 
