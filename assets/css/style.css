@@ -290,9 +290,8 @@
 
 
  table {
-     border: 3px solid #ff6700;
+     border: 2px solid #ff6700;
      margin: 0 auto;
-     border-radius: px;
      margin-top: 40px;
      background-color: rgba(255, 146, 72, .4);
  }
@@ -392,7 +391,7 @@
      height: 200px;
      padding: 10px;
      margin: 10px;
-     text-align: auto;
+     text-align: center;
      width: 33%;
  }
 
