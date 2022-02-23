@@ -131,7 +131,6 @@
      width: 100%;
      overflow: hidden;
      position: relative;
-
  }
 
  #hero-image {
@@ -144,10 +143,7 @@
      animation-name: hero-zoom;
      animation-duration: 5s;
      animation-fill-mode: forwards;
-
  }
-
-
 
  /* creates the level of zoom for hero image */
 
