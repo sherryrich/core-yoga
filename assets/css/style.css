@@ -183,7 +183,7 @@
  /* benefits */
 
  #benefits-header {
-     background-color: #ff6700;
+     background-color: rgba(255, 103, 0, .6);
      color: #fff;
      margin: auto 0;
      text-align: center;
@@ -276,7 +276,7 @@
  }
 
  #class-timetable-header>h2 {
-     background-color: #ff6700;
+     background-color:  rgba(255, 103, 0, .6);
      color: #fff;
      margin: auto 0;
      text-align: center;
