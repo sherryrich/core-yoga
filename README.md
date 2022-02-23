@@ -23,7 +23,29 @@ Navigation
 * The main navigation links are located to the top right of the webpage. Classes and contact which link to the different pages.
 * The navigation layout clearly tells the users the name of the yoga studio and shows easily where to find links to the other pages of the website.
 
+Page Layout
+
+* Home page: The homepage will be a landing page for the user and give them the warm welcome feeling and inviting them to join the studio
+* Classes: This page displays a class timtable with the Day, Time, Class, Location, Level and Duration of each class.
+* Contact Page: This is the contact page for users to be able to enquire further about joing the studio.
+
 The Header
 * The header contains a main landing image which shows a woman in a yoga position.
 * To the right of this image there is a text-box which highlights the 2 locations and inviting new members to join.
 * This section provides clear information on what this site is about and who it is for.
+
+
+## Technologies Used
+
+I intentionally did not use Boostrap on this project as I wanted to learn and master HTML & CSS without reliance on this CSS framework.
+
+* HTML5
+* CSS3
+* Google Chrome Dev tools for debugging
+* Google Light house for audits
+
+
+## Testing
+
+* Rigerous testing was completed via Google Chrome Dev tools. Responsive design from a mobile first strategy. Most notably iPhone SE (375 x 667) and larger screen sizes.
+* Further testing was done on across all major browsers via https://www.lambdatest.com/
