@@ -73,7 +73,11 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
   - This section will inform the user exactly when the Day, Time, Class, Location, Level and Duration of each class.
 
 
+## The Contact Page
 
+* This page will invite the user to signed up to Core Yoga. 
+The user will be able inform Core Yoga if they would like to enquire about  membership at the various locations.
+* The user will also be asked to submit their full name and email address.
 
 
 
