@@ -411,8 +411,9 @@
      }
 
      .section-benefits {
-         height: 500px;
-         width: 100%;
+       
+         margin: auto;
+         width: 75%;
          height: 200px;
          padding: 20px;
          border: 20px;
@@ -500,7 +501,7 @@
 
      @media (max-width: 500px) {
          .section-benefits {
-             height: 350px;
+             height: 320px;
              width: 70%;
 
          }
