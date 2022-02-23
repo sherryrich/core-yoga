@@ -29,7 +29,14 @@
  #cover-text span {
      color: #ff6700;
      font-size: 30px;
+ }
 
+ #cover-text li {
+      list-style-type: none;
+ }
+
+ .locations {
+     margin-top: 25px;
  }
 
  #benefits-header>h2 {
@@ -306,7 +313,7 @@
  table td {
      font-size: 20px;
      text-align: center;
-     padding: 3px;
+     padding: 5px;
  }
 
  table,
