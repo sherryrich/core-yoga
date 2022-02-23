@@ -10,4 +10,4 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 
 ## Skeleton
 Wireframes Desktop
-![Preivew](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_core_yoga.pdf)
+[Preivew](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_core_yoga.pdf)
