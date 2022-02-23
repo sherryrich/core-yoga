@@ -300,19 +300,29 @@
  table th {
      font-size: 15px;
      text-align: left;
-     padding: 30px;
+     padding: 20px;
      margin: 20px;
      text-transform: uppercase;
-     border-bottom: 2px solid #ff6700;
+     border-bottom: 1px solid #ff6700;
+     background-color: rgba(255, 146, 72, .4);
+     font-weight: 800;
  }
 
  table td {
      font-size: 20px;
      text-align: center;
-
+     padding: 3px;
  }
 
+ table, td, .weekday{
+    font-size: 20px;
+    text-align: left;
 
+}
+ 
+ tr:nth-of-type(odd) {
+    background-color: #ffd7b5;
+  }
 
  /* sign-up contact page  */
 
@@ -480,11 +490,13 @@
 
          .weekday {
              background-color: #fff;
+             text-align: center;
          }
 
          .rest-day {
              background-color: #ff6700;
          }
+
 
      }
 
