@@ -440,9 +440,8 @@
          #menu {
              clear: left;
              float: left;
-             margin-left: 5px;
-             padding: 5px;
-             margin-bottom: 10px;
+             padding: 5px 10px;
+             margin: 15px 2px;
              line-height: 15px;
          }
 
@@ -496,7 +495,9 @@
          .rest-day {
              background-color: #ff6700;
          }
-
+         .class-section-header {
+          height: 1800px;
+        }
 
      }
 
