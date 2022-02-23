@@ -4,4 +4,9 @@ Core Yoga is Dublin’s latest yoga studio specialising in core strength. With t
 
 A deployed link to the website can be found [here](https://sherryrich.github.io/core-yoga/)
 
-![Preivew](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_core_yoga.pdf)
+
+## Showcase
+![Preivew](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/ami_responsive_core_yoga.JPG)
+
+## Skeleton
+![Wireframes Desktop](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_core_yoga.pdf)
