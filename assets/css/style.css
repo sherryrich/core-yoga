@@ -279,7 +279,6 @@
      height: 850px;
  }
 
-
  #class-timetable-header>h2 {
      background-color: #ff6700;
      color: #fff;
@@ -314,15 +313,17 @@
      padding: 3px;
  }
 
- table, td, .weekday{
-    font-size: 20px;
-    text-align: left;
+ table,
+ td,
+ .weekday {
+     font-size: 20px;
+     text-align: left;
 
-}
- 
+ }
+
  tr:nth-of-type(odd) {
-    background-color: #ffd7b5;
-  }
+     background-color: #ffd7b5;
+ }
 
  /* sign-up contact page  */
 
@@ -495,9 +496,10 @@
          .rest-day {
              background-color: #ff6700;
          }
+
          .class-section-header {
-          height: 1800px;
-        }
+             height: 1800px;
+         }
 
      }
 
