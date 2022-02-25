@@ -19,20 +19,31 @@ Users of this website will be able to find all the information they need to know
 
 ## Features 
 
-### Navigation Bar
+### Navigation
 * The name of the yoga studio, Core Yoga is featured in the top left of the page.
 * The main navigation links are located to the top right of the webpage. Classes and contact which link to the different pages. From here users can easily navigate from page to page across all devices without using "back" button.
 * The navigation bar also clearly tells the users the name of the yoga studio and shows easily where to find links to the other pages of the website whilst showing the user what page they are currently on with an orange underline.
 
-### Page Layout
-- Home page: The homepage will be a landing page for the user and give them the warm welcome feeling and inviting them to join the studio
-* Classes: This page displays a class timtable with the Day, Time, Class, Location, Level and Duration of each class.
-* Contact Page: This is the contact page for users to be able to enquire further about joing the studio.
-
-The Header
+### Header
 * The header contains a main landing image which shows a woman in a yoga position.
 * To the right of this image there is a text-box which highlights the 2 locations and inviting new members to join.
 * This section provides clear information on what this site is about and who it is for.
+
+
+### Pages
+
+#### Home
+* The homepage will be a landing page for the user and give them the warm welcome feeling and inviting them to join the studio
+
+#### Classes
+* Classes: This page displays a class timtable with the Day, Time, Class, Location, Level and Duration of each class.
+
+#### Contact
+* Contact Page: This is the contact page for users to be able to enquire further about joing the studio.
+* The form collects name, email and the studio location which the user is interested in.
+
+### Footer
+* The footer is shown on the bottom of all 3 pages and provides the user with links to the various social media accounts to Facebook, Twitter, YouTube and Instagram.
 
 
 ## Technologies Used
@@ -48,12 +59,45 @@ I intentionally did not use Boostrap on this project as I wanted to learn and ma
 ## Testing
 
 * Rigerous testing was completed via Google Chrome Dev tools. Responsive design from a mobile first strategy. Most notably iPhone SE (375 x 667) and larger screen sizes.
-* Further testing was done on across all major browsers via https://www.lambdatest.com/
+* I tested in various browsers, Chrome, Firefox, Safari and Edge.
+* I had tested Internet Expolorer however this is no longer supported so was omitted from further testing.
+* I confirmed tha tthe navigation in the header links to the various pages classes, contact & home all worked on each page so nagivation was seemless.
+* I confirmed the form works in every input field and required fields worked as expected and the fomr submitted sucesfully in each browser.
+
+### Validator Testing
+
+* The W3C Markup Validator and W3C CSS Validation Service were used to validate each page to sure no errors were shown upon submission.
+
+The W3C Markup Validator [results]
+W3C CSS Validation Service [results]
+
+
+### Bugs
+* Initially when I deploed my project to Github I noticed that the images didnt display. This was due to absolute URL file path being incorrect. Removing the / resolved this bug.
+* I couldnt resolve CSS issues with Internet Expolorer however after querring this in Slack I was informed by my mentor that Internet Explorer is no longer supported and therefore not essential.
+
+### Unfix Bugs
+No unfixed bugs
+
+## Deploment
+* I deployed the site to GitHub pages.
+  * In the GitHub repository go to the Settings tab.
+  * Next from the source section drio-down select Master Branch
+  * once master branch is slected the page provides the link to the completed website. This can take a minute to activate and show live.
+
+### Credits
+* CodeInstitute Full Stack Developer Course
+* Udemy [The Web Developer Bootcamp 2002](https://www.udemy.com/course/the-web-developer-bootcamp/)
+* The code to make the hero-image and animation effct on the homepage was taken from the CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) project.
+* Inspiration for this README was taken from [Love Running](https://github.com/Code-Institute-Solutions/readme-template
+)
+
+### Media
+The images for this project were sourced from [Pexels](https://www.pexels.com/)
 
 
 
-
-The landing page image
+## The landing page image
 The landing includes a large full with photograph to show the user that this site realtes to Yoga.
 This section introduces the user with an eye catching animation to grab their attention.
 (Include image)
@@ -78,7 +122,6 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 * This page will invite the user to signed up to Core Yoga. 
 The user will be able inform Core Yoga if they would like to enquire about  membership at the various locations.
 * The user will also be asked to submit their full name and email address.
-
 
 
 
