@@ -145,8 +145,8 @@
      width: 100%;
      background: url('../images/pexels-eternal-happiness-3326362.jpg')no-repeat center center;
      background-size: cover;
-     background-position: 0px 600px;
-     background-repeat: repeat-y;
+     background-position: 0px -600px;
+     /* background-repeat: repeat-y; */
      animation-name: hero-zoom;
      animation-duration: 5s;
      animation-fill-mode: forwards;
@@ -282,7 +282,15 @@
      height: 850px;
  }
 
- #class-timetable-header>h2 {
+ .main-section-header {
+    clear: left;
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+}
+
+
+ #page-header>h2 {
      background-color:  rgba(255, 103, 0, .6);
      color: #fff;
      margin: auto 0;
