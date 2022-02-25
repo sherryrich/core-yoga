@@ -150,6 +150,7 @@
      animation-name: hero-zoom;
      animation-duration: 5s;
      animation-fill-mode: forwards;
+     z-index: -1;
  }
 
  /* creates the level of zoom for hero image */
