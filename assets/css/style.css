@@ -146,7 +146,7 @@
      background: url('../images/pexels-eternal-happiness-3326362.jpg')no-repeat center center;
      background-size: cover;
      background-position: 0px -600px;
-     /* background-repeat: repeat-y; */
+     background-repeat: repeat-y;
      animation-name: hero-zoom;
      animation-duration: 5s;
      animation-fill-mode: forwards;
