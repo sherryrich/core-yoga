@@ -196,6 +196,7 @@
      margin: auto 0;
      text-align: center;
      padding: 30px 0;
+     z-index: 1;
  }
 
  #benefits-container>div {
