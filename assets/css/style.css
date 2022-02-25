@@ -143,14 +143,15 @@
  #hero-image {
      height: 600px;
      width: 100%;
-     background: url('../images/pexels-eternal-happiness-3326362.jpg')no-repeat center center;
+     background: url('../images/pexels-eternal-happiness-3326362.jpg') center 100%;
      background-size: cover;
-     background-position: 0px -400px;
-     background-repeat: repeat-y;
+     /* background-position: 0px -600px; */
+     background-repeat: space;
      animation-name: hero-zoom;
      animation-duration: 5s;
      animation-fill-mode: forwards;
      z-index: -1;
+     
  }
 
  /* creates the level of zoom for hero image */
@@ -535,8 +536,11 @@
 
          }
 
-         #hero-image {
-             display: none;
+         /* #hero-image {
+            height: 300px;
+            width: 100%;
+            background: url('../images/yoga_small.JPG')no-repeat center center;
+            background-size: cover;
          }
 
          #hero-outer {
@@ -545,7 +549,7 @@
              background: url('../images/yoga_small.JPG')no-repeat center center;
              background-size: cover;
 
-         }
+         } */
 
 
      }
