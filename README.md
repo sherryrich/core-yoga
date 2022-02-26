@@ -104,7 +104,9 @@ No unfixed bugs
 ### Media
 The images for this project were sourced from [Pexels](https://www.pexels.com/)
 
-
+### Content
+The icons in the footer were taken from Font [Awesome](https://fontawesome.com/)
+[Google fonts](https://fonts.google.com/) for the fonts Roboto, Montserrat, Sans-Serif
 
 ## The landing page image
 The landing includes a large full with photograph to show the user that this site relates to Yoga.
