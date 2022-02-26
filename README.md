@@ -8,16 +8,6 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 ## Showcase
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/ami_responsive_core_yoga.JPG)
 
-## Skeleton
-Wireframes Desktop
-![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
-
-
-Lighthouse Report [Results can be found here](https://github.com/sherryrich/core-yoga/blob/main/assets/images/lighthouse_audit.JPG)
-
-
-Users of this website will be able to find all the information they need to know about class times, contact information and a sign up form. The site is targeted towards people who wish to take up yoga lessons in the greater Dublin area.
-
 ## Features 
 
 ### Navigation
@@ -46,6 +36,18 @@ Users of this website will be able to find all the information they need to know
 ### Footer
 * The footer is shown on the bottom of all 3 pages and provides the user with links to the various social media accounts to Facebook, Twitter, YouTube and Instagram.
 
+### Features Left to Implement
+* An iframe showing the locations of the 3 Studios on Google maps.
+
+## Skeleton
+Wireframes Desktop
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
+
+
+Lighthouse Report [Results can be found here](https://github.com/sherryrich/core-yoga/blob/main/assets/images/lighthouse_audit.JPG)
+
+
+Users of this website will be able to find all the information they need to know about class times, contact information and a sign up form. The site is targeted towards people who wish to take up yoga lessons in the greater Dublin area.
 
 ## Technologies Used
 
@@ -55,7 +57,6 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 * CSS3
 * Google Chrome Dev tools for debugging
 * Google Light house for audits
-
 
 ## Testing
 
@@ -71,7 +72,6 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 
 The W3C Markup Validator [results]
 W3C CSS Validation Service [results]
-
 
 ### Bugs
 * Positioning of hero image on y-axis to show centrally.
