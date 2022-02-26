@@ -6,11 +6,11 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 
 
 ## Showcase
-![Preview](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/ami_responsive_core_yoga.JPG)
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/ami_responsive_core_yoga.JPG)
 
 ## Skeleton
 Wireframes Desktop
-![Preview](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_homepage.PNG)
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/doc/wireframe_homepage.PNG)
 
 
 Lighthouse Report [Results can be found here](https://github.com/sherryrich/core-yoga/blob/main/assets/images/lighthouse_audit.JPG)
