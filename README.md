@@ -44,7 +44,8 @@ Wireframes Desktop
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
 
 
-Lighthouse Report [Results can be found here](https://github.com/sherryrich/core-yoga/blob/main/assets/images/lighthouse_audit.JPG)
+Lighthouse Report
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/lighthouse_core_yoga.PNG)
 
 
 Users of this website will be able to find all the information they need to know about class times, contact information and a sign up form. The site is targeted towards people who wish to take up yoga lessons in the greater Dublin area.
