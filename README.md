@@ -1,16 +1,16 @@
 # Core Yoga
 
-Core Yoga is Dublin’s latest yoga studio specialising in core strength. With two new locations Dublin Docklands and Ranelagh.Dublin, Ireland’s capital, is the perfect place for this latest venture with its dynamic professional workforce with an empasis on health. The aim of this site is to introduce users to the new locations and show the users some basic information ie availability of classes and contact information.
+Core Yoga is Dublin’s latest yoga studio specialising in core strength. With two new locations Dublin Docklands and Ranelagh. Dublin, Ireland’s capital, is the perfect place for this latest venture with its dynamic professional workforce with an emphasis on health. The aim of this site is to introduce users to the new locations and show the users some basic information such as availability of classes and contact information.
 
 A deployed link to the website can be found [here](https://sherryrich.github.io/core-yoga/)
 
 
 ## Showcase
-![Preivew](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/ami_responsive_core_yoga.JPG)
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/ami_responsive_core_yoga.JPG)
 
 ## Skeleton
 Wireframes Desktop
-[Preivew](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_core_yoga.pdf)
+[Preview](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_core_yoga.pdf)
 
 Lighthouse Report [Results can be found here](https://github.com/sherryrich/core-yoga/blob/main/assets/images/lighthouse_audit.JPG)
 
@@ -36,10 +36,10 @@ Users of this website will be able to find all the information they need to know
 * The homepage will be a landing page for the user and give them the warm welcome feeling and inviting them to join the studio
 
 #### Classes
-* Classes: This page displays a class timtable with the Day, Time, Class, Location, Level and Duration of each class.
+* Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
 
 #### Contact
-* Contact Page: This is the contact page for users to be able to enquire further about joing the studio.
+* Contact Page: This is the contact page for users to be able to enquire further about joining the studio.
 * The form collects name, email and the studio location which the user is interested in.
 
 ### Footer
@@ -48,7 +48,7 @@ Users of this website will be able to find all the information they need to know
 
 ## Technologies Used
 
-I intentionally did not use Boostrap on this project as I wanted to learn and master HTML & CSS without reliance on this CSS framework.
+I intentionally did not use Bootstrap on this project as I wanted to learn and master HTML & CSS without reliance on this CSS framework.
 
 * HTML5
 * CSS3
@@ -58,11 +58,11 @@ I intentionally did not use Boostrap on this project as I wanted to learn and ma
 
 ## Testing
 
-* Rigerous testing was completed via Google Chrome Dev tools. Responsive design from a mobile first strategy. Most notably iPhone SE (375 x 667) and larger screen sizes.
+* Rigorous testing was completed via Google Chrome Dev tools. Responsive design from a mobile first strategy. Most notably iPhone SE (375 x 667) and larger screen sizes.
 * I tested in various browsers, Chrome, Firefox, Safari and Edge.
-* I had tested Internet Expolorer however this is no longer supported so was omitted from further testing.
-* I confirmed tha tthe navigation in the header links to the various pages classes, contact & home all worked on each page so nagivation was seemless.
-* I confirmed the form works in every input field and required fields worked as expected and the fomr submitted sucesfully in each browser.
+* I had tested Internet ExpoExplorer however this is no longer supported so was omitted from further testing.
+* I confirmed that the navigation in the header links to the various pages classes, contact & home all worked on each page so navigation was seamless.
+* I confirmed the form works in every input field and required fields worked as expected and the form submitted successfully in each browser.
 
 ### Validator Testing
 
@@ -73,24 +73,32 @@ W3C CSS Validation Service [results]
 
 
 ### Bugs
-* Initially when I deploed my project to Github I noticed that the images didnt display. This was due to absolute URL file path being incorrect. Removing the / resolved this bug.
-* I couldnt resolve CSS issues with Internet Expolorer however after querring this in Slack I was informed by my mentor that Internet Explorer is no longer supported and therefore not essential.
+* Positioning of hero image on y-axis to show centrally.
+* Initially I used collspan to specify the alignment of the content in the table however from reading on online I noticed that this attribute has been deprecated.
+* Initially when I deployed my project to Github I noticed that the images didn't display. This was due to absolute URL file path being incorrect. Removing the / resolved this bug.
+* I couldn’t resolve CSS issues with Internet Explorer  however after querying this I was informed by my mentor that Internet Explorer is no longer supported.
+* Z-index was used to ensure benefits header is in front.
+* During testing the W3C Validator flagged the duplication of ID usage.
+* Lighthouse advised of Semantic improvements to be made such as H3 heading coming before a H2.
 
 ### Unfix Bugs
 No unfixed bugs
 
-## Deploment
+## Deployment
 * I deployed the site to GitHub pages.
   * In the GitHub repository go to the Settings tab.
-  * Next from the source section drio-down select Master Branch
+  * Next from the source section drop-down select Master Branch
   * once master branch is slected the page provides the link to the completed website. This can take a minute to activate and show live.
 
 ### Credits
-* CodeInstitute Full Stack Developer Course
+* [Code Institute](https://codeinstitute.net/ie/) Full Stack Developer Course
+* [W3Schools](https://www.w3schools.com/) - constant source of help and inspiration
+* [MDN](https://developer.mozilla.org/en-US/) - wealth of information
 * Udemy [The Web Developer Bootcamp 2002](https://www.udemy.com/course/the-web-developer-bootcamp/)
-* The code to make the hero-image and animation effct on the homepage was taken from the CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) project.
-* Inspiration for this README was taken from [Love Running](https://github.com/Code-Institute-Solutions/readme-template
-)
+* The code to make the hero-image and animation effect on the homepage was taken from the CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) project.
+* Inspiration for this README was taken from [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
+* Am I Responsive?[Am I Responsive?](http://ami.responsivedesign.is/)A tool for taking a quick snapshot of the responsive breakpoints of the website to visualise how the site will look on different device screen sizes in one place. The resulting screenshot is also used as the README.md logo image.
+
 
 ### Media
 The images for this project were sourced from [Pexels](https://www.pexels.com/)
@@ -98,13 +106,13 @@ The images for this project were sourced from [Pexels](https://www.pexels.com/)
 
 
 ## The landing page image
-The landing includes a large full with photograph to show the user that this site realtes to Yoga.
+The landing includes a large full with photograph to show the user that this site relates to Yoga.
 This section introduces the user with an eye catching animation to grab their attention.
 (Include image)
 
 BENEFITS OF CORE YOGA
 3 sections advising the user to read the benefits of Yoga to their health.
-This should entice the user to engage more with the rest of the website and condier joing one of the studios.
+This should entice the user to engage more with the rest of the website and consider joining one of the studios.
 
 (Include image)
 
@@ -124,5 +132,6 @@ The user will be able inform Core Yoga if they would like to enquire about  memb
 * The user will also be asked to submit their full name and email address.
 
 
+This project is for educational use only and was created for the Code Institute Module
 
-:smiley: 
+Created by Richard Sherry :smiley: 
