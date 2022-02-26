@@ -10,6 +10,7 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 
 ## Skeleton
 Wireframes Desktop
+!(https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_core_yoga.pdf)
 [Preview](https://github.com/sherryrich/core-yoga/blob/main/assets/wireframe/wireframe_core_yoga.pdf)
 
 Lighthouse Report [Results can be found here](https://github.com/sherryrich/core-yoga/blob/main/assets/images/lighthouse_audit.JPG)
