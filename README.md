@@ -15,11 +15,14 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 * The main navigation links are located to the top right of the webpage. Classes and contact which link to the different pages. From here users can easily navigate from page to page across all devices without using "back" button.
 * The navigation bar also clearly tells the users the name of the yoga studio and shows easily where to find links to the other pages of the website whilst showing the user what page they are currently on with an orange underline.
 
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_navbar.PNG)
+
 ### Header
 * The header contains a main landing image which shows a woman in a yoga position.
 * To the right of this image there is a text-box which highlights the 2 locations and inviting new members to join.
 * This section provides clear information on what this site is about and who it is for.
 
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_hero_image.PNG)
 
 ### Pages
 
