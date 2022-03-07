@@ -30,7 +30,7 @@ The landing includes a large full with photograph to show the user that this sit
 
 This section introduces the user with an eye catching animation to grab their attention.
 
-BENEFITS OF CORE YOGA
+### Benefits of Core Yoga
 3 sections advising the user to read the benefits of Yoga to their health.
 This should entice the user to engage more with the rest of the website and consider joining one of the studios.
 
