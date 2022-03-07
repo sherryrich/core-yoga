@@ -1,6 +1,5 @@
  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@300&display=swap');
 
-
  * {
      margin: 0;
      padding: 0;
@@ -15,7 +14,6 @@
  }
 
  /* headings and logo */
-
 
  h1,
  h2 {
@@ -32,7 +30,7 @@
  }
 
  #cover-text li {
-      list-style-type: none;
+     list-style-type: none;
  }
 
  .locations {
@@ -64,8 +62,6 @@
      color: #fff;
  }
 
-
-
  hr {
      display: none;
  }
@@ -79,7 +75,6 @@
      ;
  }
 
-
  /* navigation links */
 
  #menu {
@@ -91,10 +86,7 @@
  #menu,
  #logo {
      line-height: 75px;
-
  }
-
-
 
  #menu li {
      float: right;
@@ -102,36 +94,28 @@
      margin-right: 30px;
  }
 
-
  #menu a:hover {
      padding-bottom: 5px;
      border-bottom: 2px solid #ff6700;
      color: #fff;
-
  }
-
 
  .active {
      padding-bottom: 5px;
      border-bottom: 2px solid #ff6700;
  }
 
-
-
  #menu a {
      text-decoration: none;
      color: inherit;
  }
-
 
  #cover-text,
  #cover-text h2 {
      color: #fff;
  }
 
-
  /* main image */
-
 
  #hero-outer {
      height: 600px;
@@ -150,11 +134,10 @@
      animation-duration: 5s;
      animation-fill-mode: forwards;
      z-index: -1;
-     
  }
 
  /* creates the level of zoom for hero image */
-
+/* This code is taken from https://code-institute-org.github.io/love-running-2.0/index.html  */
  @keyframes hero-zoom {
      from {
          transform: scale(1);
@@ -163,7 +146,6 @@
      to {
          transform: scale(1.2);
      }
-
  }
 
  #cover-text {
@@ -171,21 +153,14 @@
      font-family: Roboto, Montserrat, Sans-Serif;
      text-transform: uppercase;
      letter-spacing: 4px;
-
      width: 300px;
      height: 200px;
-
      padding-top: 40px;
      padding-left: 10px;
-
      background-color: rgba(255, 146, 72, .7);
-
      bottom: 30px;
      right: 150px;
-
      position: absolute;
-
-
  }
 
  /* benefits */
@@ -204,19 +179,13 @@
      display: inline-block;
      padding: 30px 0 30px 0;
      width: 33%;
-
  }
-
 
  #benefits-container>div>h3 {
      text-align: center;
      text-decoration: solid;
      padding-top: 20px;
  }
-
-
-
-
 
  #left-benefits {
      padding: 30px;
@@ -228,7 +197,6 @@
      padding: 30px;
      width: 33%;
      margin: auto;
-
  }
 
  #right-benefits {
@@ -242,7 +210,6 @@
      width: 100%;
      margin: 5px 0;
  }
-
 
  footer {
      height: 150px;
@@ -272,9 +239,7 @@
      display: inline-block;
  }
 
-
  /* class timetable */
-
 
  .class-section-header {
      clear: left;
@@ -285,21 +250,19 @@
  }
 
  .main-section-header {
-    clear: left;
-    background-size: cover;
-    background-position: center;
-    height: 850px;
-}
-
+     clear: left;
+     background-size: cover;
+     background-position: center;
+     height: 850px;
+ }
 
  #page-header>h2 {
-     background-color:  rgba(255, 103, 0, .6);
+     background-color: rgba(255, 103, 0, .6);
      color: #fff;
      margin: auto 0;
      text-align: center;
      padding: 30px 0;
  }
-
 
  table {
      border: 2px solid #ff6700;
@@ -307,7 +270,6 @@
      margin-top: 40px;
      background-color: rgba(255, 146, 72, .4);
  }
-
 
  table th {
      font-size: 15px;
@@ -367,7 +329,6 @@
      font-size: 30px;
  }
 
-
  .text-input {
      background: transparent;
      width: 100%;
@@ -392,23 +353,16 @@
      background-color: #ff6700;
      color: #ffff;
      display: block;
-
  }
 
  .join-button:hover {
      background-color: #fafafa;
      color: #ff6700;
-
  }
-
-
-
-
 
  #section-outer {
      display: flex;
      justify-content: left;
-
  }
 
  .section-benefits {
@@ -420,9 +374,7 @@
  }
 
  .section-benefits H3 {
-
      padding: 20px;
-
  }
 
  /* media query */
@@ -442,8 +394,6 @@
          padding: 20px;
          border: 20px;
      }
-
-
 
      #cover-text {
          display: none;
@@ -513,10 +463,7 @@
          .class-section-header {
              height: 1800px;
          }
-
      }
-
-
 
      @media (max-width: 800px) {
          .signup-form {
@@ -525,33 +472,14 @@
          }
      }
 
-
-
-
      @media (max-width: 500px) {
          .section-benefits {
              height: 320px;
              width: 70%;
-
          }
 
-         /* #hero-image {
-            height: 300px;
-            width: 100%;
-            background: url('../images/yoga_small.JPG')no-repeat center center;
-            background-size: cover;
+         table {
+             margin-top: 5px;
          }
-
-         #hero-outer {
-             height: 300px;
-             width: 100%;
-             background: url('../images/yoga_small.JPG')no-repeat center center;
-             background-size: cover;
-
-         } */
-
-
      }
-
-
  }
