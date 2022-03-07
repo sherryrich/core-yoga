@@ -48,16 +48,20 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 ### Features Left to Implement
 * An iframe showing the locations of the 3 Studios on Google maps.
 
+## Color Palette
+
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_color_palette.PNG)
+
 ## Skeleton
 Wireframes Desktop
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
 
 
-Lighthouse Report
+## Lighthouse Report
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/lighthouse_core_yoga.PNG)
 
 
-Users of this website will be able to find all the information they need to know about class times, contact information and a sign up form. The site is targeted towards people who wish to take up yoga lessons in the greater Dublin area.
+
 
 ## Technologies Used
 
