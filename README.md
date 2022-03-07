@@ -42,13 +42,15 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 ### Classes Page
 * Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
+* Alternating colors were used to alow the user visually seperate the days.
+* The information displayed for Sunday is spread across the entire table width.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_class_timetable.PNG)
 
 ### Contact Page
 * Contact Page: This is the contact page for users to be able to enquire further about joining Core Yoga.
 * The form collects name, email and the studio location which the user is interested  contacting.
-* The user will also be required to submit their full name and email address.
+* The user will also be required to submit their First name, Last name, email address and select a location before succesfully submitting the form.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_contact_form.PNG)
 
