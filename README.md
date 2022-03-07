@@ -32,12 +32,18 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 #### Classes
 * Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
 
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_class_timetable.PNG)
+
 #### Contact
 * Contact Page: This is the contact page for users to be able to enquire further about joining the studio.
 * The form collects name, email and the studio location which the user is interested in.
 
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_contact_form.PNG)
+
 ### Footer
 * The footer is shown on the bottom of all 3 pages and provides the user with links to the various social media accounts to Facebook, Twitter, YouTube and Instagram.
+
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_social_media_links.PNG)
 
 ### Features Left to Implement
 * An iframe showing the locations of the 3 Studios on Google maps.
