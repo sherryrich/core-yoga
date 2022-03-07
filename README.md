@@ -44,14 +44,15 @@ The footer section includes links to the 4 main social media sites for Core Yoga
 The footer is to encourage the user to keep connected with Core Yoga via social media
 
 
-#### Classes
+### Classes
 * Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_class_timetable.PNG)
 
-#### Contact
-* Contact Page: This is the contact page for users to be able to enquire further about joining the studio.
-* The form collects name, email and the studio location which the user is interested in.
+### Contact
+* Contact Page: This is the contact page for users to be able to enquire further about joining Core Yoga.
+* The form collects name, email and the studio location which the user is interested  contacting.
+* The user will also be required to submit their full name and email address.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_contact_form.PNG)
 
@@ -74,9 +75,6 @@ Wireframes Desktop
 
 ## Lighthouse Report
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/lighthouse_core_yoga.PNG)
-
-
-
 
 ## Technologies Used
 
@@ -129,27 +127,12 @@ No unfixed bugs
 * Inspiration for this README was taken from [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
 * Am I Responsive?[Am I Responsive?](http://ami.responsivedesign.is/)A tool for taking a quick snapshot of the responsive breakpoints of the website to visualise how the site will look on different device screen sizes in one place. The resulting screenshot is also used as the README.md logo image.
 
-
 ### Media
 The images for this project were sourced from [Pexels](https://www.pexels.com/)
 
 ### Content
 The icons in the footer were taken from Font [Awesome](https://fontawesome.com/)
 [Google fonts](https://fonts.google.com/) for the fonts Roboto, Montserrat, Sans-Serif
-
-
-
-- __Classes page__
-
-  - This section will inform the user exactly when the Day, Time, Class, Location, Level and Duration of each class.
-
-
-## The Contact Page
-
-* This page will invite the user to signed up to Core Yoga. 
-The user will be able inform Core Yoga if they would like to enquire about  membership at the various locations.
-* The user will also be asked to submit their full name and email address.
-
 
 This project is for educational use only and was created for the Code Institute Module
 
