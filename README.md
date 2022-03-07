@@ -26,8 +26,23 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 
 ### Pages
 
-#### Home
-* The homepage will be a landing page for the user and give them the warm welcome feeling and inviting them to join the studio
+### Home
+
+The homepage will be a landing page for the user and give them the warm welcome feeling and inviting them to join the studio.
+The landing includes a large full with photograph to show the user that this site relates to Yoga.
+
+This section introduces the user with an eye catching animation to grab their attention.
+
+BENEFITS OF CORE YOGA
+3 sections advising the user to read the benefits of Yoga to their health.
+This should entice the user to engage more with the rest of the website and consider joining one of the studios.
+
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_benefits.PNG)
+
+The Footer
+The footer section includes links to the 4 main social media sites for Core Yoga. The links will intentionally open in a new tab to allow easy navigation for the user.
+The footer is to encourage the user to keep connected with Core Yoga via social media
+
 
 #### Classes
 * Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
@@ -122,20 +137,7 @@ The images for this project were sourced from [Pexels](https://www.pexels.com/)
 The icons in the footer were taken from Font [Awesome](https://fontawesome.com/)
 [Google fonts](https://fonts.google.com/) for the fonts Roboto, Montserrat, Sans-Serif
 
-## The landing page image
-The landing includes a large full with photograph to show the user that this site relates to Yoga.
-This section introduces the user with an eye catching animation to grab their attention.
-(Include image)
 
-BENEFITS OF CORE YOGA
-3 sections advising the user to read the benefits of Yoga to their health.
-This should entice the user to engage more with the rest of the website and consider joining one of the studios.
-
-(Include image)
-
-The Footer
-The footer section includes links to the 4 main social media sites for Core Yoga. The links will intentionally open in a new tab to allow easy navigation for the user.
-The footer is to encourage the user to keep connected with Core Yoga via social media
 
 - __Classes page__
 
