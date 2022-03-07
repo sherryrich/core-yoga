@@ -71,7 +71,7 @@ Wireframes Desktop
 
 
 ## Lighthouse Report
-![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/lighthouse_core_yoga.PNG)
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_lighthouse.PNG)
 
 ## Technologies Used
 
