@@ -54,6 +54,7 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 ### Footer
 * The footer is shown on the bottom of all 3 pages and provides the user with links to the various social media accounts to Facebook, Twitter, YouTube and Instagram.
+* When the user scrolls over the social media icons they change color to orange to highlight the icon.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_social_media_links.PNG)
 
@@ -145,5 +146,6 @@ This project is for educational use only and was created for the Code Institute 
 
 ### Acknowledgements
 * To create this website, I relied  on the material covered in the Full Stack Development course by Code Institute. I also relied on information from Code InstituteM Slack Community Channels, Udemy, W3Schools & MDN for Online Web Tutorials and resources.
+* Gerard McBride my tutor.
 
 Created by Richard Sherry :smiley:
