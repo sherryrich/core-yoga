@@ -4,7 +4,6 @@ Core Yoga is Dublin’s latest yoga studio specialising in core strength. With t
 
 A deployed link to the website can be found [here](https://sherryrich.github.io/core-yoga/)
 
-
 ## Showcase
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/ami_responsive_core_yoga.JPG)
 
@@ -24,9 +23,7 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_hero_image.PNG)
 
-### Pages
-
-### Home
+### Home Page
 
 The homepage will be a landing page for the user and give them the warm welcome feeling and inviting them to join the studio.
 The landing includes a large full with photograph to show the user that this site relates to Yoga.
@@ -43,13 +40,12 @@ The Footer
 The footer section includes links to the 4 main social media sites for Core Yoga. The links will intentionally open in a new tab to allow easy navigation for the user.
 The footer is to encourage the user to keep connected with Core Yoga via social media
 
-
-### Classes
+### Classes Page
 * Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_class_timetable.PNG)
 
-### Contact
+### Contact Page
 * Contact Page: This is the contact page for users to be able to enquire further about joining Core Yoga.
 * The form collects name, email and the studio location which the user is interested  contacting.
 * The user will also be required to submit their full name and email address.
@@ -113,27 +109,41 @@ W3C CSS Validation Service [results]
 No unfixed bugs
 
 ## Deployment
-* I deployed the site to GitHub pages.
-  * In the GitHub repository go to the Settings tab.
-  * Next from the source section drop-down select Master Branch
-  * once master branch is slected the page provides the link to the completed website. This can take a minute to activate and show live.
+* The current deployment of this project was done using Gitpod.
+* I used the gitpod interface to write the code and as it is linked with Github as it was easy to use the terminal to commit my files and push to my repository.
+* The deployed website is hosted on Github pages for easy viewing without having to clone or fork the repository to view the running website. Deployment was done by clicking on the settings tab on my repository then navigating to "Github pages" Changing the source from none to master
+* I deployed the site to GitHub pages. 
+* A deployed link to the website can be found [here](https://sherryrich.github.io/core-yoga/)
+* In the GitHub repository go to the Settings tab.
+* Next from the source section drop-down select Master Branch
+* once master branch is slected the page provides the link to the completed website. This can take a minute to activate and show live.
+
+###  If you wish to run this project locally.
+- Click clone / download
+- Choose your preffered method (Zip or github desktop)
+- Open in your preffered IDE
+- Run on local server
 
 ### Credits
 * [Code Institute](https://codeinstitute.net/ie/) Full Stack Developer Course
 * [W3Schools](https://www.w3schools.com/) - constant source of help and inspiration
 * [MDN](https://developer.mozilla.org/en-US/) - wealth of information
 * Udemy [The Web Developer Bootcamp 2002](https://www.udemy.com/course/the-web-developer-bootcamp/)
+* Form Examples [HTML&CSS Book](https://www.htmlandcssbook.com/code-samples/chapter-06/)
 * The code to make the hero-image and animation effect on the homepage was taken from the CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) project.
 * Inspiration for this README was taken from [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
 * Am I Responsive?[Am I Responsive?](http://ami.responsivedesign.is/)A tool for taking a quick snapshot of the responsive breakpoints of the website to visualise how the site will look on different device screen sizes in one place. The resulting screenshot is also used as the README.md logo image.
 
 ### Media
-The images for this project were sourced from [Pexels](https://www.pexels.com/)
+* The images for this project were sourced from [Pexels](https://www.pexels.com/)
 
 ### Content
-The icons in the footer were taken from Font [Awesome](https://fontawesome.com/)
-[Google fonts](https://fonts.google.com/) for the fonts Roboto, Montserrat, Sans-Serif
+* The icons in the footer were taken from Font [Awesome](https://fontawesome.com/)
+* [Google fonts](https://fonts.google.com/) for the fonts Roboto, Montserrat, Sans-Serif
 
 This project is for educational use only and was created for the Code Institute Module
 
-Created by Richard Sherry :smiley: 
+### Acknowledgements
+* To create this website, I relied  on the material covered in the Full Stack Development course by Code Institute. I also relied on information from Code InstituteM Slack Community Channels, Udemy, W3Schools & MDN for Online Web Tutorials and resources.
+
+Created by Richard Sherry :smiley:
