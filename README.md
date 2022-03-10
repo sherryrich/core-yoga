@@ -99,6 +99,19 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 * I confirmed that the navigation in the header links to the various pages classes, contact & home all worked on each page so navigation was seamless.
 * I confirmed the form works in every input field and required fields worked as expected and the form submitted successfully in each browser.
 
+#### **Navigation Testing**
+| Feature        | Expected           | Testing  | Result | Pass/Fail |
+| ------------- |-------------| -----|  ---------- | :----: |
+| Home button    | To redirect to home page | Click the home button | Button navigates to home | Pass |
+| Navbar links | Clicking link brings user to appropraite pages | Redirected to page | Redirected to page | Pass |
+|   | Click Classes takes user to Classes page | Click Classes | Redirected to Classes page | Pass |
+|   | Click Contact takes user to Contact page | Click Contact | Redirected to Contact page | Pass |
+| Benefits links | Redirect to Contact page| Click Contact Us | Redirected to Contact page | Pass |
+| Footer | Redirect to Facebook in new tab | Click Facebook icon | Facebook page opened in new tab | Pass |
+|  | Redirect to Twitter in new tab | Click Twitter icon | Twitter page opened in new tab | Pass |
+|  | Redirect to YouTube in new tab | Click YouTube icon | YouTube page opened in new tab | Pass |
+|  | Redirect to Instagram in new tab | Click Instagram icon | Instagram page opened in new tab | Pass |
+
 ### W3C Validator Testing
 
 * The W3C Markup Validator and W3C CSS Validation Service were used to validate each page to sure no errors were shown upon submission.
