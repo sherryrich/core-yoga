@@ -96,8 +96,8 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 
 * The W3C Markup Validator and W3C CSS Validation Service were used to validate each page to sure no errors were shown upon submission.
 
-The W3C Markup Validator [results]
-W3C CSS Validation Service [results]
+The W3C Markup Validator [results](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_markup_validator_result.PNG)
+W3C CSS Validation Service [results](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_css_validator_result.PNG)
 
 ### Bugs
 * Positioning of hero image on y-axis to show centrally.
