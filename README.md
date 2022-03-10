@@ -68,10 +68,10 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_color_palette.PNG)
 
 ## Wireframes
-### Desktop
-* ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
 
 * To view all wireframes both Destktop & mobile [View](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
+
+* ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
 
 ## Lighthouse Report
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_lighthouse.PNG)

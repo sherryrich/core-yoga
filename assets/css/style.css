@@ -462,9 +462,10 @@
              width: 70%;
          }
 
-         .home {
-             display: none;
-         }
+         #menu {
+            font-size: 75%;
+            letter-spacing: 2px;
+        }
 
          table {
              margin-top: 5px;
