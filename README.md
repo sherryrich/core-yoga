@@ -125,7 +125,7 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 * The W3C Markup Validator and W3C CSS Validation Service were used to validate each page to sure no errors were shown upon submission.
 
 * The W3C Markup Validator - Homepage [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_markup_validator_result.PNG)
-* The W3C Markup Validator - Classes Page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_classesw3schools_markup_validator_result.PNG)
+* The W3C Markup Validator - Classes Page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_classes_w3schools_markup_validator_result.PNG)
 * The W3C Markup Validator - Contact page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_contact_w3schools_markup_validator_result.PNG)
 * TW3C CSS Validation Service [CSS result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_css_validator_result.PNG)
 
