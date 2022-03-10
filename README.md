@@ -42,15 +42,15 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 ### Classes Page
 * Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
-* Alternating colors were used to alow the user visually seperate the days.
+* Alternating colors were used to allow the user visually separate the days.
 * The information displayed for Sunday is spread across the entire table width.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_class_timetable.PNG)
 
 ### Contact Page
 * Contact Page: This is the contact page for users to be able to enquire further about joining Core Yoga.
-* The form collects name, email and the studio location which the user is interested  contacting.
-* The user will also be required to submit their First name, Last name, email address and select a location before succesfully submitting the form.
+* The form collects name, email and the studio location which the user is interested in contacting.
+* The user will also be required to submit their First name, Last name, email address and select a location before successfully submitting the form.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_contact_form.PNG)
 
@@ -69,7 +69,7 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 ## Wireframes
 
-* To view all wireframes both Destktop & mobile [View](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
+* To view all wireframes both Desktop & mobile [View All wireframes](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
 
@@ -80,11 +80,16 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 I intentionally did not use Bootstrap on this project as I wanted to learn and master HTML & CSS without reliance on this CSS framework.
 
-* HTML5
-* CSS3
-* Google Chrome Dev tools for debugging
-* Google Light house for audits
-* WAVE Browser Extension - [WAVE](https://wave.webaim.org/extension/)
+1. HTML5
+1. CSS3
+1. [Google Fonts](https://fonts.google.com/)
+1. [Font Awesome](https://fontawesome.com/) was used for social media icons for aesthetic and UX purposes.
+1. [Git](https://git-scm.com/) was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub](https://github.com/) GitHub is used to store the projects code after being pushed from Git.
+1. Google Chrome Dev tools for debugging
+1. Google Light house for audits
+1. [WAVE](https://wave.webaim.org/extension/) Browser Extension
+1. [Balsamiq](https://balsamiq.com/) was used to create the Wireframes
 
 ## Testing
 
@@ -123,7 +128,7 @@ CSS formatting issues content on smaller devices less then 300px wide.
 * A deployed link to the website can be found [here](https://sherryrich.github.io/core-yoga/)
 * In the GitHub repository go to the Settings tab.
 * Next from the source section drop-down select Master Branch
-* once master branch is slected the page provides the link to the completed website. This can take a minute to activate and show live.
+* once master branch is selected the page provides the link to the completed website. This can take a minute to activate and show live.
 
 ### Making a Local Clone
 
@@ -171,7 +176,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 This project is for educational use only and was created for the Code Institute Module
 
 ### Acknowledgements
-* To create this website, I relied  on the material covered in the Full Stack Development course by Code Institute. I also relied on information from Code InstituteM Slack Community Channels, Udemy, W3Schools & MDN for Online Web Tutorials and resources.
+* To create this website, I relied  on the material covered in the Full Stack Development course by Code Institute. I also relied on information from Code Institute, Slack Community Channels, Udemy, W3Schools & MDN for Online Web Tutorials and resources.
 * Gerard McBride my tutor.
 
 Created by Richard Sherry :smiley:
