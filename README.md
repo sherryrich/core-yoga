@@ -88,7 +88,7 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 
 * Rigorous testing was completed via Google Chrome Dev tools. Responsive design from a mobile first strategy. Most notably iPhone SE (375 x 667) and larger screen sizes.
 * I tested in various browsers, Chrome, Firefox, Safari and Edge.
-* I had tested Internet ExpoExplorer however this is no longer supported so was omitted from further testing.
+* I had tested Internet Explorer however this is no longer supported so was omitted from further testing.
 * I confirmed that the navigation in the header links to the various pages classes, contact & home all worked on each page so navigation was seamless.
 * I confirmed the form works in every input field and required fields worked as expected and the form submitted successfully in each browser.
 
