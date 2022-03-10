@@ -67,10 +67,11 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_color_palette.PNG)
 
-## Skeleton
-Wireframes Desktop
-![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
+## Wireframes
+### Desktop
+* ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
 
+* To view all wireframes both Destktop & mobile [View](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
 
 ## Lighthouse Report
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_lighthouse.PNG)
@@ -121,11 +122,31 @@ No unfixed bugs
 * Next from the source section drop-down select Master Branch
 * once master branch is slected the page provides the link to the completed website. This can take a minute to activate and show live.
 
-###  If you wish to run this project locally.
-- Click clone / download
-- Choose your preffered method (Zip or github desktop)
-- Open in your preffered IDE
-- Run on local server
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone hhttps://github.com/sherryrich/core-yoga
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/sherryrich/core-yoga
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ### Credits
 * [Code Institute](https://codeinstitute.net/ie/) Full Stack Developer Course
