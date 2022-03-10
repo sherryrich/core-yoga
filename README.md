@@ -71,7 +71,7 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 * To view all wireframes both Destktop & mobile [View](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
 
-* ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
+![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
 
 ## Lighthouse Report
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_lighthouse.PNG)
@@ -84,6 +84,7 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 * CSS3
 * Google Chrome Dev tools for debugging
 * Google Light house for audits
+* WAVE Browser Extension - [WAVE](https://wave.webaim.org/extension/)
 
 ## Testing
 
@@ -93,12 +94,14 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 * I confirmed that the navigation in the header links to the various pages classes, contact & home all worked on each page so navigation was seamless.
 * I confirmed the form works in every input field and required fields worked as expected and the form submitted successfully in each browser.
 
-### Validator Testing
+### W3C Validator Testing
 
 * The W3C Markup Validator and W3C CSS Validation Service were used to validate each page to sure no errors were shown upon submission.
 
-The W3C Markup Validator [results](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_markup_validator_result.PNG)
-W3C CSS Validation Service [results](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_css_validator_result.PNG)
+* The W3C Markup Validator - Homepage [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_markup_validator_result.PNG)
+* The W3C Markup Validator - Classes Page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_classesw3schools_markup_validator_result.PNG)
+* The W3C Markup Validator - Contact page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_contact_w3schools_markup_validator_result.PNG)
+* TW3C CSS Validation Service [CSS result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_css_validator_result.PNG)
 
 ### Bugs
 * Positioning of hero image on y-axis to show centrally.
@@ -110,7 +113,7 @@ W3C CSS Validation Service [results](https://github.com/sherryrich/core-yoga/blo
 * Lighthouse advised of Semantic improvements to be made such as H3 heading coming before a H2.
 
 ### Unfix Bugs
-No unfixed bugs
+CSS formatting issues content on smaller devices less then 300px wide.
 
 ## Deployment
 * The current deployment of this project was done using Gitpod.
