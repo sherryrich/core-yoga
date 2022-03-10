@@ -63,11 +63,19 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 ### Features Left to Implement
 * An iframe showing the locations of the 3 Studios on Google maps.
 
-## Color Palette
+# Design
 
+## Color Palette
+* The main colour used is orange which is associated with health stimulation, happiness, balance.
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_color_palette.PNG)
 
-## Wireframes
+## Typography
+The Roboto font is the main font used throughout the whole website with Montserrat & Sans-Serif as the fallback fonts in case for any reason the font isn't being imported into the site correctly. Roboto font features friendly and open curves.
+
+## Imagery
+ The large full width hero image on the homepage is designed with slow forward moving animation to catch the user's attention.
+
+# Wireframes
 
 * To view all wireframes both Desktop & mobile [View All wireframes](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
 
@@ -111,6 +119,7 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 |  | Redirect to Twitter in new tab | Click Twitter icon | Twitter page opened in new tab | Pass |
 |  | Redirect to YouTube in new tab | Click YouTube icon | YouTube page opened in new tab | Pass |
 |  | Redirect to Instagram in new tab | Click Instagram icon | Instagram page opened in new tab | Pass |
+
 
 ### W3C Validator Testing
 
