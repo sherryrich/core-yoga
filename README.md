@@ -65,14 +65,13 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 # Design
 
-## Color Palette
-* The main colour used is orange which is associated with health stimulation, happiness, balance.
+* Color Palette -The main colour used is orange which is associated with health stimulation, happiness, balance.
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_color_palette.PNG)
 
-## Typography
+* Typography
 The Roboto font is the main font used throughout the whole website with Montserrat & Sans-Serif as the fallback fonts in case for any reason the font isn't being imported into the site correctly. Roboto font features friendly and open curves.
 
-## Imagery
+* Imagery
  The large full width hero image on the homepage is designed with slow forward moving animation to catch the user's attention.
 
 # Wireframes
