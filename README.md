@@ -119,7 +119,7 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 * [Git](https://git-scm.com/) was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub](https://github.com/) GitHub is used to store the projects code after being pushed from Git.
 * [Gitpod](https://www.gitpod.io/) An online IDE linked to the GitHub repository used to write my code.
-* Google Chrome Dev tools for debugging.
+* [Google Chrome Dev tools](https://developer.chrome.com/docs/devtools/) for debugging.
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) used for audits to measure the quality of web pages.
 * [WAVE](https://wave.webaim.org/extension/) Browser Extension testing.
 * [Balsamiq](https://balsamiq.com/) was used to create the Wireframes.
@@ -217,7 +217,6 @@ For a more detailed explanations of the above process [Click Here](https://help.
 * [Pexels](https://www.pexels.com/) - All images for this project were sourced from Pexels.
 * [Awesome](https://fontawesome.com/) - The icons in the footer were taken from Font Awesome.
 * [Google fonts](https://fonts.google.com/) for the fonts Roboto, Montserrat, Sans-Serif.
-* 
 
 This project is for educational use only and was created for the Code Institute Module
 
