@@ -15,7 +15,7 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 ### User Stories
 ### First Time Visitor Goals:
 * As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-* I want to click the navigation links to be taken to the apporopriate section and also back to home for a better user experience.
+* I want to click the navigation links to be taken to the appropriate section and also back to home for a better user experience.
 * I want to be able to contact the organisation easily.
 
 ### Returning Visitor Goals:
@@ -23,7 +23,7 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 * As a Returning Visitor, I want to find the best way to get in contact with the organisation via the contact form.
 * As a Returning Visitor, I want to find community links.
 
-### Frequent  Visitor Goals:
+### Frequent Visitor Goals:
 * As a Frequent User, I want to check to see if there are any changes to the class timetable and locations of classes.
 * I want to be able to access the site easily on my chosen device.
 
@@ -36,7 +36,7 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 
 ### Header
 * The header contains a main landing image which shows a woman in a yoga position.
-* To the right of this image there is a text-box which highlights the 2 locations and inviting new members to join.
+* To the right of this image there is a textbox which highlights the 2 locations and inviting new members to join.
 * This section provides clear information on what this site is about and who it is for.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_hero_image.PNG)
@@ -44,9 +44,9 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 ### Home Page
 
 The homepage will be a landing page for the user and give them the warm welcome feeling and inviting them to join the studio.
-The landing includes a large full with photograph to show the user that this site relates to Yoga.
+The landing includes a large full width photograph to show the user that this site relates to Yoga.
 
-This section introduces the user with an eye catching animation to grab their attention.
+This section introduces the user with an eye-catching animation to grab their attention.
 
 ### Benefits of Core Yoga
 3 sections advising the user to read the benefits of Yoga to their health.
@@ -60,7 +60,7 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 ### Classes Page
 * Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
-* Alternating colors were used to allow the user visually separate the days.
+* Alternating colors were used to help the user to separate the days visually.
 * The information displayed for Sunday is spread across the entire table width.
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_class_timetable.PNG)
@@ -137,7 +137,7 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :----: |
 | Home button    | To redirect to home page | Click the home button | Button navigates to home | Pass |
-| Navbar links | Clicking link brings user to appropraite pages | Redirected to page | Redirected to page | Pass |
+| Navbar links | Clicking link brings user to appropriate pages | Redirected to page | Redirected to page | Pass |
 |   | Click Classes takes user to Classes page | Click Classes | Redirected to Classes page | Pass |
 |   | Click Contact takes user to Contact page | Click Contact | Redirected to Contact page | Pass |
 | Benefits links | Redirect to Contact page| Click Contact Us | Redirected to Contact page | Pass |
