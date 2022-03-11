@@ -92,11 +92,11 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 * The Roboto font is the main font used throughout the whole website with Montserrat & Sans-Serif as the fallback fonts in case for any reason the font isn't being imported into the site correctly. Roboto font features friendly and open curves.
 
 ### Imagery
- *The large full width hero image on the homepage is designed with slow forward moving animation to catch the user's attention.
+* The large full width hero image on the homepage is designed with slow forward moving animation to catch the user's attention.
 
 ## Wireframes
 
-* To view all wireframes both Desktop & mobile [View All wireframes](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
+* To view all wireframes both Desktop & mobile [Click Here](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
 
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_homepage.PNG)
 
