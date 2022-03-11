@@ -27,7 +27,7 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 * As a Frequent User, I want to check to see if there are any changes to the class timetable and locations of classes.
 * I want to be able to access the site easily on my chosen device.
 
-### Navigation
+## Navigation
 * The name of the yoga studio, Core Yoga is featured in the top left of the page.
 * The main navigation links are located to the top right of the webpage. Classes and contact which link to the different pages. From here users can easily navigate from page to page across all devices without using "back" button.
 * The navigation bar also clearly tells the users the name of the yoga studio and shows easily where to find links to the other pages of the website whilst showing the user what page they are currently on with an orange underline.
@@ -204,7 +204,7 @@ $ git clone https://github.com/sherryrich/core-yoga
 
 For a more detailed explanations of the above process [Click Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) 
 
-### Credits
+## Credits
 * [Code Institute](https://codeinstitute.net/ie/) - Full Stack Developer Course
 * [W3Schools](https://www.w3schools.com/) - constant source of help and inspiration
 * [MDN](https://developer.mozilla.org/en-US/) - wealth of information
@@ -220,7 +220,7 @@ For a more detailed explanations of the above process [Click Here](https://help.
 
 This project is for educational use only and was created for the Code Institute Module
 
-### Acknowledgements
+## Acknowledgements
 * To create this website, I relied on material covered in the Full Stack Development course by Code Institute. I also relied on information from Code Institute, Slack Community Channels, Udemy, W3Schools & MDN for Online Web Tutorials and resources.
 * Gerard McBride my tutor for reviewing my work and providing valuable feedback and advice.
 
