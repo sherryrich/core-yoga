@@ -7,7 +7,25 @@ A deployed link to the website can be found [here](https://sherryrich.github.io/
 ## Showcase
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/ami_responsive_core_yoga.JPG)
 
-## Features 
+
+## UX (User Experience)
+
+
+## Features
+### User Stories
+### First Time Visitor Goals:
+* As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+* I want to click the navigation links to be taken to the apporopriate section and also back to home for a better user experience.
+* I want to be able to contact the organisation easily.
+
+### Returning Visitor Goals:
+* As a Returning Visitor, I want to find information on class times and location.
+* As a Returning Visitor, I want to find the best way to get in contact with the organisation via the contact form.
+* As a Returning Visitor, I want to find community links.
+
+### Frequent  Visitor Goals:
+* As a Frequent User, I want to check to see if there are any changes to the class timetable and locations of classes.
+* I want to be able to access the site easily on my chosen device.
 
 ### Navigation
 * The name of the yoga studio, Core Yoga is featured in the top left of the page.
@@ -38,7 +56,7 @@ This should entice the user to engage more with the rest of the website and cons
 
 The Footer
 The footer section includes links to the 4 main social media sites for Core Yoga. The links will intentionally open in a new tab to allow easy navigation for the user.
-The footer is to encourage the user to keep connected with Core Yoga via social media
+The footer is to encourage the user to keep connected with Core Yoga via social media.
 
 ### Classes Page
 * Classes: This page displays a class timetable with the Day, Time, Class, Location, Level and Duration of each class.
@@ -62,19 +80,21 @@ The footer is to encourage the user to keep connected with Core Yoga via social 
 
 ### Features Left to Implement
 * An iframe showing the locations of the 3 Studios on Google maps.
+* Add a carousel for Testimonials from existing customers.
 
-# Design
+## Design
 
-* Color Palette -The main colour used is orange which is associated with health stimulation, happiness, balance.
+### Color Palette
+* The main colour used is orange which is associated with health stimulation, happiness, balance. [Color Meaning](https://www.bourncreative.com/meaning-of-the-color-orange/#:~:text=Orange%20is%20associated%20with%20meanings,color%20of%20joy%20and%20creativity.)
 ![Preview](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_color_palette.PNG)
 
-* Typography
-The Roboto font is the main font used throughout the whole website with Montserrat & Sans-Serif as the fallback fonts in case for any reason the font isn't being imported into the site correctly. Roboto font features friendly and open curves.
+### Typography
+* The Roboto font is the main font used throughout the whole website with Montserrat & Sans-Serif as the fallback fonts in case for any reason the font isn't being imported into the site correctly. Roboto font features friendly and open curves.
 
-* Imagery
- The large full width hero image on the homepage is designed with slow forward moving animation to catch the user's attention.
+### Imagery
+ *The large full width hero image on the homepage is designed with slow forward moving animation to catch the user's attention.
 
-# Wireframes
+## Wireframes
 
 * To view all wireframes both Desktop & mobile [View All wireframes](https://github.com/sherryrich/core-yoga/blob/main/docs/wireframe_core_yoga_all.pdf)
 
@@ -85,18 +105,25 @@ The Roboto font is the main font used throughout the whole website with Montserr
 
 ## Technologies Used
 
-I intentionally did not use Bootstrap on this project as I wanted to learn and master HTML & CSS without reliance on this CSS framework.
+### Languages
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-1. HTML5
-1. CSS3
-1. [Google Fonts](https://fonts.google.com/)
-1. [Font Awesome](https://fontawesome.com/) was used for social media icons for aesthetic and UX purposes.
-1. [Git](https://git-scm.com/) was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub](https://github.com/) GitHub is used to store the projects code after being pushed from Git.
-1. Google Chrome Dev tools for debugging
-1. Google Light house for audits
-1. [WAVE](https://wave.webaim.org/extension/) Browser Extension
-1. [Balsamiq](https://balsamiq.com/) was used to create the Wireframes
+### Libraries
+* I intentionally did not use Bootstrap on this project as I wanted to learn and master HTML & CSS without reliance on this CSS framework.
+
+### Tools
+* [Google Fonts](https://fonts.google.com/) Used to compare and choose fonts.
+* [Font Awesome](https://fontawesome.com/) was used for social media icons for aesthetic and UX purposes.
+* [Color-hex](https://www.color-hex.com/color-palette/8987) colour scheme inspiration.
+* [Git](https://git-scm.com/) was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+* [GitHub](https://github.com/) GitHub is used to store the projects code after being pushed from Git.
+* [Gitpod](https://www.gitpod.io/) An online IDE linked to the GitHub repository used to write my code.
+* Google Chrome Dev tools for debugging.
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) used for audits to measure the quality of web pages.
+* [WAVE](https://wave.webaim.org/extension/) Browser Extension testing.
+* [Balsamiq](https://balsamiq.com/) was used to create the Wireframes.
+* [amiresponsive](http://ami.responsivedesign.is/) to see how responsive the site is on different devices.
 
 ## Testing
 
@@ -122,12 +149,12 @@ I intentionally did not use Bootstrap on this project as I wanted to learn and m
 
 ### W3C Validator Testing
 
-* The W3C Markup Validator and W3C CSS Validation Service were used to validate each page to sure no errors were shown upon submission.
+#### The W3C Markup Validator and W3C CSS Validation Service were used to validate each page to sure no errors were shown upon submission.
 
-* The W3C Markup Validator - Homepage [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_markup_validator_result.PNG)
-* The W3C Markup Validator - Classes Page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_classes_w3schools_markup_validator_result.PNG)
-* The W3C Markup Validator - Contact page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_contact_w3schools_markup_validator_result.PNG)
-* TW3C CSS Validation Service [CSS result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_css_validator_result.PNG)
+* W3C Markup Validator - Homepage [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_markup_validator_result.PNG)
+* W3C Markup Validator - Classes Page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_classes_w3schools_markup_validator_result.PNG)
+* W3C Markup Validator - Contact page [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_contact_w3schools_markup_validator_result.PNG)
+* TW3C CSS Validation Service [result](https://github.com/sherryrich/core-yoga/blob/main/docs/core_yoga_index_w3schools_css_validator_result.PNG)
 
 ### Bugs
 * Positioning of hero image on y-axis to show centrally.
@@ -144,12 +171,12 @@ CSS formatting issues content on smaller devices less then 300px wide.
 ## Deployment
 * The current deployment of this project was done using Gitpod.
 * I used the gitpod interface to write the code and as it is linked with Github as it was easy to use the terminal to commit my files and push to my repository.
-* The deployed website is hosted on Github pages for easy viewing without having to clone or fork the repository to view the running website. Deployment was done by clicking on the settings tab on my repository then navigating to "Github pages" Changing the source from none to master
+* The deployed website is hosted on Github pages for easy viewing without having to clone or fork the repository to view the running website. Deployment was done by clicking on the settings tab on my repository then navigating to "Github pages" Changing the source from none to master.
 * I deployed the site to GitHub pages. 
 * A deployed link to the website can be found [here](https://sherryrich.github.io/core-yoga/)
 * In the GitHub repository go to the Settings tab.
-* Next from the source section drop-down select Master Branch
-* once master branch is selected the page provides the link to the completed website. This can take a minute to activate and show live.
+* Next from the source section drop-down select Master Branch.
+* Once master branch is selected the page provides the link to the completed website. This can take a minute to activate and show live.
 
 ### Making a Local Clone
 
@@ -175,29 +202,27 @@ $ git clone https://github.com/sherryrich/core-yoga
 > Unpacking objects: 100% (10/10), done.
 ```
 
-Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+For a more detailed explanations of the above process [Click Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) 
 
 ### Credits
-* [Code Institute](https://codeinstitute.net/ie/) Full Stack Developer Course
+* [Code Institute](https://codeinstitute.net/ie/) - Full Stack Developer Course
 * [W3Schools](https://www.w3schools.com/) - constant source of help and inspiration
 * [MDN](https://developer.mozilla.org/en-US/) - wealth of information
-* Udemy [The Web Developer Bootcamp 2002](https://www.udemy.com/course/the-web-developer-bootcamp/)
-* Form Examples [HTML&CSS Book](https://www.htmlandcssbook.com/code-samples/chapter-06/)
-* The code to make the hero-image and animation effect on the homepage was taken from the CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) project.
-* Inspiration for this README was taken from [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
-* Am I Responsive?[Am I Responsive?](http://ami.responsivedesign.is/)A tool for taking a quick snapshot of the responsive breakpoints of the website to visualise how the site will look on different device screen sizes in one place. The resulting screenshot is also used as the README.md logo image.
-
-### Media
-* The images for this project were sourced from [Pexels](https://www.pexels.com/)
-
-### Content
-* The icons in the footer were taken from Font [Awesome](https://fontawesome.com/)
-* [Google fonts](https://fonts.google.com/) for the fonts Roboto, Montserrat, Sans-Serif
+* [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/21917562#overview) - The Web Developer Bootcamp 2002 - Form Lecture
+* [HTML&CSS Book](https://www.htmlandcssbook.com/code-samples/chapter-06/) - Table Examples
+* [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) - The code to make the hero-image and animation effect on the homepage was taken from Code Institute.
+* [README Love Running](https://github.com/Code-Institute-Solutions/readme-template) - Inspiration for this README
+* [suzybee1987](https://github.com/suzybee1987) - Providing website feedback and advice on this README
+* [Am I Responsive?](http://ami.responsivedesign.is/) - Tool for taking a quick snapshot of the responsive breakpoints of the website to visualise how the site will look on different device screen sizes in one place. The resulting screenshot is also used as the README.md logo image.
+* [Pexels](https://www.pexels.com/) - All images for this project were sourced from Pexels.
+* [Awesome](https://fontawesome.com/) - The icons in the footer were taken from Font Awesome.
+* [Google fonts](https://fonts.google.com/) for the fonts Roboto, Montserrat, Sans-Serif.
+* 
 
 This project is for educational use only and was created for the Code Institute Module
 
 ### Acknowledgements
-* To create this website, I relied  on the material covered in the Full Stack Development course by Code Institute. I also relied on information from Code Institute, Slack Community Channels, Udemy, W3Schools & MDN for Online Web Tutorials and resources.
-* Gerard McBride my tutor.
+* To create this website, I relied on material covered in the Full Stack Development course by Code Institute. I also relied on information from Code Institute, Slack Community Channels, Udemy, W3Schools & MDN for Online Web Tutorials and resources.
+* Gerard McBride my tutor for reviewing my work and providing valuable feedback and advice.
 
 Created by Richard Sherry :smiley:
